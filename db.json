@@ -5,8 +5,8 @@
       "title": "Tapas Tour",
       "category": "Gastronomy",
       "price": 45,
-      "image": "https://images.unsplash.com/photo-tapas.jpg",
-      "description": "Discover Madrid's best tapas bars with a local guide.",
+      "image": "https://images.unsplash.com/photo-1656423521731-9665583f100c?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "Descubre las mejores tapas de Madrid",
       "city": "Madrid"
     },
     {
@@ -14,17 +14,17 @@
       "title": "Paella Cooking Class",
       "category": "Gastronomy",
       "price": 60,
-      "image": "https://images.unsplash.com/photo-paella.jpg",
+      "image": "https://images.unsplash.com/photo-1682988771291-da784f151ef7?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "Learn to cook authentic Spanish paella from a master chef.",
       "city": "Madrid"
     },
     {
       "id": 3,
-      "title": "Wine Tasting",
+      "title": "Vermouth Experience",
       "category": "Gastronomy",
-      "price": 35,
-      "image": "https://images.unsplash.com/photo-wine.jpg",
-      "description": "Taste the best Spanish wines in a cozy Madrid cellar.",
+      "price": 32,
+      "image": "https://images.unsplash.com/photo-1603048004570-6a82fc507364?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "Taste traditional Spanish vermouth in historic Madrid taverns, guided by a local expert.",
       "city": "Madrid"
     },
     {
@@ -32,7 +32,7 @@
       "title": "Flamenco Night",
       "category": "Culture",
       "price": 50,
-      "image": "https://images.unsplash.com/photo-flamenco.jpg",
+      "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/09/f2/62/75.jpg",
       "description": "Enjoy a passionate flamenco show in the heart of Madrid.",
       "city": "Madrid"
     },
@@ -41,7 +41,7 @@
       "title": "Prado Museum Tour",
       "category": "Culture",
       "price": 30,
-      "image": "https://images.unsplash.com/photo-prado.jpg",
+      "image": "https://i0.wp.com/blog.artsper.com/wp-content/uploads/2022/01/Blog-Headline-Image-5.jpg?fit=1200%2C675&ssl=1",
       "description": "Guided tour of Spain's most famous art museum.",
       "city": "Madrid"
     },
@@ -50,7 +50,7 @@
       "title": "Royal Palace Visit",
       "category": "Culture",
       "price": 25,
-      "image": "https://images.unsplash.com/photo-palace.jpg",
+      "image": "https://www.barcelo.com/guia-turismo/wp-content/uploads/2019/01/palacio-real-2.jpg",
       "description": "Explore the stunning Royal Palace of Madrid.",
       "city": "Madrid"
     },
@@ -59,7 +59,7 @@
       "title": "Retiro Park Boats",
       "category": "Adventure",
       "price": 15,
-      "image": "https://images.unsplash.com/photo-retiro.jpg",
+      "image": "https://www.trixi.com/storage/2021/11/barcas_en_madrid_006.jpg",
       "description": "Row a boat on the beautiful Retiro Park lake.",
       "city": "Madrid"
     },
@@ -68,7 +68,7 @@
       "title": "Bernabéu Stadium Tour",
       "category": "Adventure",
       "price": 35,
-      "image": "https://images.unsplash.com/photo-bernabeu.jpg",
+      "image": "https://s3.sportstatics.com/relevo/www/multimedia/202405/09/media/cortadas/santiago-bernabeu-madrid-bayern-RJ9KNX5Qv948OpDrVHnpflJ-1200x648@Relevo.jpg",
       "description": "Tour the legendary home of Real Madrid.",
       "city": "Madrid"
     },
@@ -77,7 +77,7 @@
       "title": "Rooftop Sunset Experience",
       "category": "Adventure",
       "price": 20,
-      "image": "https://images.unsplash.com/photo-rooftop.jpg",
+      "image": "https://visitmadrid-files.s3.eu-west-1.amazonaws.com/files/styles/scale_webp_1280x720/public/2024-01/terrazas-2019-art.jpg?itok=d64RCzlB",
       "description": "Watch the sunset from one of Madrid's best rooftops.",
       "city": "Madrid"
     }
