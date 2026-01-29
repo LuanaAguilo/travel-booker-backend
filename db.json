@@ -2,83 +2,83 @@
   "experiences": [
     {
       "id": 1,
-      "title": "Tapas Tour",
+      "title": "Madrid Tapas After Dark",
       "category": "Gastronomy",
       "price": 45,
-      "image": "https://images.unsplash.com/photo-1656423521731-9665583f100c?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "description": "Descubre las mejores tapas de Madrid",
+      "image": "https://images.unsplash.com/photo-1656423521731-9665583f100c?q=80&w=2072&auto=format&fit=crop",
+      "description": "A guided evening tapas crawl through Madrid’s most iconic neighborhoods, discovering hidden local favorites.",
       "city": "Madrid"
     },
     {
       "id": 2,
-      "title": "Paella Cooking Class",
+      "title": "From Market to Paella Masterclass",
       "category": "Gastronomy",
       "price": 60,
-      "image": "https://images.unsplash.com/photo-1682988771291-da784f151ef7?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "description": "Learn to cook authentic Spanish paella from a master chef.",
+      "image": "https://images.unsplash.com/photo-1682988771291-da784f151ef7?q=80&w=987&auto=format&fit=crop",
+      "description": "Shop fresh ingredients at a traditional market, then cook authentic Spanish paella with a local chef.",
       "city": "Madrid"
     },
     {
       "id": 3,
-      "title": "Vermouth Experience",
+      "title": "Vermouth & Traditions Tasting",
       "category": "Gastronomy",
       "price": 32,
-      "image": "https://images.unsplash.com/photo-1603048004570-6a82fc507364?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "description": "Taste traditional Spanish vermouth in historic Madrid taverns, guided by a local expert.",
+      "image": "https://images.unsplash.com/photo-1603048004570-6a82fc507364?q=80&w=987&auto=format&fit=crop",
+      "description": "A curated vermouth experience in historic taverns, learning the ritual behind Spain’s favorite aperitivo.",
       "city": "Madrid"
     },
     {
       "id": 4,
-      "title": "Flamenco Night",
+      "title": "Flamenco Nights in the Old City",
       "category": "Culture",
       "price": 50,
       "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/09/f2/62/75.jpg",
-      "description": "Enjoy a passionate flamenco show in the heart of Madrid.",
+      "description": "An intimate flamenco performance showcasing the passion, music, and rhythm of Spanish culture.",
       "city": "Madrid"
     },
     {
       "id": 5,
-      "title": "Prado Museum Tour",
+      "title": "Prado Museum: Art Through the Ages",
       "category": "Culture",
       "price": 30,
       "image": "https://i0.wp.com/blog.artsper.com/wp-content/uploads/2022/01/Blog-Headline-Image-5.jpg?fit=1200%2C675&ssl=1",
-      "description": "Guided tour of Spain's most famous art museum.",
+      "description": "A guided journey through Spain’s most famous masterpieces at the Prado Museum.",
       "city": "Madrid"
     },
     {
       "id": 6,
-      "title": "Royal Palace Visit",
+      "title": "Secrets of the Royal Palace",
       "category": "Culture",
       "price": 25,
       "image": "https://www.barcelo.com/guia-turismo/wp-content/uploads/2019/01/palacio-real-2.jpg",
-      "description": "Explore the stunning Royal Palace of Madrid.",
+      "description": "Explore Madrid’s Royal Palace and uncover stories of Spanish royalty and history.",
       "city": "Madrid"
     },
     {
       "id": 7,
-      "title": "Retiro Park Boats",
+      "title": "Retiro Park Rowboats & Stroll",
       "category": "Adventure",
       "price": 15,
       "image": "https://www.trixi.com/storage/2021/11/barcas_en_madrid_006.jpg",
-      "description": "Row a boat on the beautiful Retiro Park lake.",
+      "description": "A relaxing boat ride on Retiro Park’s lake followed by a scenic walk through the park.",
       "city": "Madrid"
     },
     {
       "id": 8,
-      "title": "Bernabéu Stadium Tour",
+      "title": "Bernabéu Legends Stadium Experience",
       "category": "Adventure",
       "price": 35,
       "image": "https://s3.sportstatics.com/relevo/www/multimedia/202405/09/media/cortadas/santiago-bernabeu-madrid-bayern-RJ9KNX5Qv948OpDrVHnpflJ-1200x648@Relevo.jpg",
-      "description": "Tour the legendary home of Real Madrid.",
+      "description": "A behind-the-scenes tour of Real Madrid’s legendary stadium and football history.",
       "city": "Madrid"
     },
     {
       "id": 9,
-      "title": "Rooftop Sunset Experience",
+      "title": "Madrid Rooftop Sunset Escape",
       "category": "Adventure",
       "price": 20,
-      "image": "https://visitmadrid-files.s3.eu-west-1.amazonaws.com/files/styles/scale_webp_1280x720/public/2024-01/terrazas-2019-art.jpg?itok=d64RCzlB",
-      "description": "Watch the sunset from one of Madrid's best rooftops.",
+      "image": "https://visitmadrid-files.s3.eu-west-1.amazonaws.com/files/styles/scale_webp_1280x720/public/2024-01/terrazas-2019-art.jpg",
+      "description": "Watch the sun set over Madrid from one of the city’s most beautiful rooftop viewpoints.",
       "city": "Madrid"
     }
   ]
