@@ -3,217 +3,1430 @@
     {
       "id": 1,
       "title": "Madrid Tapas After Dark",
-      "category": "Food & Wine",
+      "category": "Tapas & Traditions",
       "price": 290,
+      "duration": "3.5 hours",
+      "groupSize": "Private for 2-6 guests",
+      "languages": ["English", "Spanish"],
+      "meetingPoint": "Your hotel or central Madrid location",
       "image": "https://images.unsplash.com/photo-1656423521731-9665583f100c?q=80&w=2072&auto=format&fit=crop",
-      "description": "A private evening journey through Madrid’s most discreet tapas addresses.",
+      "description": "Step beyond the tourist trail into Madrid's most authentic tapas culture. This private evening journey takes you to four carefully selected addresses—places locals guard closely, where reservations don't exist and the food speaks for itself.",
+      "detailedItinerary": [
+        {
+          "time": "7:30 PM",
+          "title": "Your Evening Begins",
+          "description": "Meet at your hotel or central location. Walk through Madrid's evening streets with insights into the neighborhoods and tapas tradition."
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Classic Tavern",
+          "description": "Century-old bar with house-cured meats, traditional tortilla española, paired with crisp Albariño wine."
+        },
+        {
+          "time": "8:45 PM",
+          "title": "Hidden Neighborhood Gem",
+          "description": "Family-run spot with daily market-fresh dishes. Gambas al ajillo, pulpo a la gallega, seasonal vegetables. Ribera del Duero pairing."
+        },
+        {
+          "time": "9:45 PM",
+          "title": "Contemporary Tapas Bar",
+          "description": "Tradition meets innovation. Ibérico pork with truffle, braised oxtail croquettes. Intimate setting with deep wine list."
+        },
+        {
+          "time": "10:30 PM",
+          "title": "Late-Night Final Stop",
+          "description": "Locals' favorite for cheese, charcuterie, and digestif. Relaxed atmosphere to close the evening."
+        }
+      ],
+      "included": [
+        "Private guide (Alejandro or vetted colleague)",
+        "All food at four venues (10-12 tapas shared)",
+        "Wine pairings at each stop (3-4 glasses)",
+        "Water, digestif, coffee/tea",
+        "Gratuities at venues",
+        "Insider cultural context"
+      ],
+      "notIncluded": [
+        "Hotel pickup/drop-off (walking experience)",
+        "Additional drinks beyond pairings",
+        "Personal purchases"
+      ],
+      "specialFeatures": [
+        "No tourist traps - genuine neighborhood spots",
+        "Adaptable to dietary needs",
+        "Local rhythm - eat where Madrileños actually eat",
+        "Cultural context and social ritual explained"
+      ],
+      "bookingDetails": {
+        "advanceNotice": "48 hours minimum, 1 week for larger groups",
+        "cancellationPolicy": "Full refund 48+ hours before. 50% within 48 hours. No refund day-of.",
+        "dresscode": "Smart casual, comfortable walking shoes",
+        "accessibility": "~2km walking total"
+      },
+      "dietaryAccommodations": ["Vegetarian", "Pescatarian", "Gluten-free"],
       "city": "Madrid"
     },
     {
       "id": 2,
       "title": "From Market to Paella Masterclass",
-      "category": "Food & Wine",
-      "price": 480,
+      "category": "Tapas & Traditions",
+      "price": 650,
+      "duration": "4.5 hours",
+      "groupSize": "Private for 2-8 guests",
+      "languages": ["English", "Spanish"],
+      "meetingPoint": "Mercado de San Miguel or your hotel",
       "image": "https://i.imgur.com/ZmatXGM.jpg",
-      "description": "Market sourcing followed by a private paella session with a local chef.",
+      "description": "Begin at Madrid's iconic market, selecting the freshest ingredients with a local chef, then move to a private kitchen for an immersive paella masterclass. This is Valencia's signature dish, taught properly, with context and technique.",
+      "detailedItinerary": [
+        {
+          "time": "10:00 AM",
+          "title": "Market Visit",
+          "description": "Meet your chef at the market. Learn to select quality seafood, vegetables, and Spanish rice. Sample artisan products and discuss regional variations."
+        },
+        {
+          "time": "11:30 AM",
+          "title": "Private Kitchen Session",
+          "description": "Move to a professional kitchen or intimate culinary space. Your chef guides you through sofrito preparation, stock building, and the critical socarrat (crispy bottom layer)."
+        },
+        {
+          "time": "1:00 PM",
+          "title": "The Feast",
+          "description": "Sit down to enjoy your paella with Spanish wine, simple salad, and dessert. Relaxed conversation, recipes to take home."
+        }
+      ],
+      "included": [
+        "Private chef and instructor",
+        "Market tour and ingredient sourcing",
+        "All ingredients and cooking equipment",
+        "Wine pairing with lunch",
+        "Recipe cards and cooking tips",
+        "Aprons provided"
+      ],
+      "notIncluded": [
+        "Transportation to/from market",
+        "Additional alcoholic beverages",
+        "Gratuity for chef (optional)"
+      ],
+      "specialFeatures": [
+        "Hands-on cooking, not demonstration",
+        "Market sourcing included",
+        "Small group ensures personal attention",
+        "Suitable for all skill levels"
+      ],
+      "bookingDetails": {
+        "advanceNotice": "3 days minimum",
+        "cancellationPolicy": "Full refund 72+ hours before. 50% within 72 hours. No refund day-of.",
+        "dresscode": "Casual, aprons provided",
+        "accessibility": "Kitchen is wheelchair accessible"
+      },
+      "dietaryAccommodations": ["Seafood paella", "Vegetarian paella", "Mixed paella options"],
       "city": "Madrid"
     },
     {
       "id": 3,
       "title": "Vermouth & Traditions Tasting",
-      "category": "Food & Wine",
-      "price": 220,
+      "category": "Tapas & Traditions",
+      "price": 320,
+      "duration": "2.5 hours",
+      "groupSize": "Private for 2-6 guests",
+      "languages": ["English", "Spanish"],
+      "meetingPoint": "Central Madrid meeting point",
       "image": "https://i.imgur.com/fgDaTM0.jpg",
-      "description": "A guided vermouth ritual in historic taverns, curated by a local expert.",
+      "description": "Vermouth hour is sacred in Madrid. This guided ritual takes you to three historic taverns where vermouth is served the traditional way—on tap, over ice, with a twist of orange and an olive. Learn the history, the brands, and why this aperitif defines Madrid's social culture.",
+      "detailedItinerary": [
+        {
+          "time": "12:30 PM",
+          "title": "Classic Tavern Introduction",
+          "description": "Begin at a century-old vermutera. Your guide explains the history of vermouth in Spain, how it's made, and the ritual of 'vermuteo.' First tasting with traditional garnish."
+        },
+        {
+          "time": "1:15 PM",
+          "title": "Artisan Producer Visit",
+          "description": "Visit a bar featuring small-batch vermouths. Compare styles—sweet, dry, herbal. Paired with Spanish olives, anchovies, and house-made chips."
+        },
+        {
+          "time": "2:00 PM",
+          "title": "Modern Twist Finale",
+          "description": "End at a contemporary space that reimagines vermouth service. Taste experimental blends, creative pairings, and optional vermouth-based cocktails."
+        }
+      ],
+      "included": [
+        "Private guide with deep vermouth knowledge",
+        "Tastings at three venues (6-8 vermouths total)",
+        "Traditional Spanish snacks at each stop",
+        "Water and palate cleansers",
+        "Context on Madrid's drinking culture"
+      ],
+      "notIncluded": [
+        "Additional cocktails or beverages",
+        "Full meal (this is an aperitif experience)",
+        "Transportation between venues"
+      ],
+      "specialFeatures": [
+        "Access to historic taverns locals frequent",
+        "Compare traditional vs. modern styles",
+        "Perfect pre-lunch cultural experience",
+        "Intimate, relaxed pacing"
+      ],
+      "bookingDetails": {
+        "advanceNotice": "48 hours minimum",
+        "cancellationPolicy": "Full refund 48+ hours before. No refund within 48 hours.",
+        "dresscode": "Casual",
+        "accessibility": "Minimal walking, all venues ground level"
+      },
+      "dietaryAccommodations": ["Can accommodate dietary restrictions for snacks"],
       "city": "Madrid"
     },
     {
       "id": 4,
-      "title": "Chef’s Table: Madrid Edition",
-      "category": "Food & Wine",
-      "price": 950,
+      "title": "Chef's Table: Madrid Edition",
+      "category": "Fine Dining & Wine",
+      "price": 1200,
+      "duration": "3.5 hours",
+      "groupSize": "Private for 2-4 guests",
+      "languages": ["English", "Spanish"],
+      "meetingPoint": "Private dining location (disclosed upon booking)",
       "image": "https://i.imgur.com/VWgbL5j.jpg",
-      "description": "An intimate, chef-led tasting menu in a private dining setting.",
+      "description": "An intimate, chef-led tasting menu in a private dining setting. This isn't a restaurant—it's a curated evening with a talented Madrid chef who prepares 8-10 courses based on seasonal ingredients and personal creativity. Wine pairings by a sommelier. Conversation with the chef between courses. Entirely private, entirely tailored.",
+      "detailedItinerary": [
+        {
+          "time": "8:00 PM",
+          "title": "Welcome & First Course",
+          "description": "Arrive at a private dining space. Meet your chef and sommelier. Begin with amuse-bouche and sparkling wine. Discuss the evening's menu."
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Multi-Course Tasting",
+          "description": "8-10 courses featuring Spanish ingredients with modern technique. Each course introduced by the chef, paired with Spanish wines. Courses may include: Galician octopus, Ibérico pork, seasonal vegetables, local fish, artisan cheese, creative dessert."
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Digestif & Farewell",
+          "description": "Close with Spanish digestif, coffee, and final conversation with the chef. Recipe insights and recommendations for further dining in Madrid."
+        }
+      ],
+      "included": [
+        "Private chef for the evening",
+        "8-10 course tasting menu",
+        "Full wine pairing (5-6 wines)",
+        "Sommelier service",
+        "Private dining space rental",
+        "Water, coffee, digestif"
+      ],
+      "notIncluded": [
+        "Transportation to/from venue",
+        "Additional wine beyond pairings",
+        "Gratuity (optional, though appreciated)"
+      ],
+      "specialFeatures": [
+        "Entirely private—just your group and the chef",
+        "Menu customized to preferences and dietary needs",
+        "Direct conversation with chef throughout",
+        "Sommelier-selected Spanish wine pairings",
+        "Exclusive experience, not available publicly"
+      ],
+      "bookingDetails": {
+        "advanceNotice": "1 week minimum",
+        "cancellationPolicy": "Full refund 7+ days before. 50% within 7 days. No refund within 48 hours.",
+        "dresscode": "Smart casual to elegant",
+        "accessibility": "Venue details shared upon booking"
+      },
+      "dietaryAccommodations": ["Menu fully customizable", "Vegetarian", "Pescatarian", "Allergies accommodated with advance notice"],
       "city": "Madrid"
     },
     {
       "id": 5,
       "title": "Ibérico & Grand Cru Pairing",
-      "category": "Food & Wine",
-      "price": 520,
+      "category": "Fine Dining & Wine",
+      "price": 680,
+      "duration": "2.5 hours",
+      "groupSize": "Private for 2-8 guests",
+      "languages": ["English", "Spanish"],
+      "meetingPoint": "Private tasting room or upscale venue",
       "image": "https://i.imgur.com/1gAxgA6.jpg",
-      "description": "A refined tasting of Spain’s finest jamón with premium wine pairings.",
+      "description": "Spain's finest jamón ibérico paired with world-class wines in an elegant setting. A sommelier guides you through five premium wines—Spanish reds, whites, and a surprise pairing—alongside expertly carved jamón from acorn-fed pigs. This is a masterclass in balance, terroir, and tradition.",
+      "detailedItinerary": [
+        {
+          "time": "6:00 PM",
+          "title": "Introduction & First Pairing",
+          "description": "Settle into a private tasting room. Your sommelier introduces the evening's concept. Begin with lighter jamón (paleta) paired with crisp Albariño or fino sherry."
+        },
+        {
+          "time": "6:30 PM",
+          "title": "Progressive Tasting",
+          "description": "Move through five pairings: Jamón ibérico de bellota with aged Rioja reserva. Cecina (cured beef) with Ribera del Duero. Lomo (cured pork loin) with Priorat. Chorizo ibérico with Mencía. Manchego cheese with sweet wine finale."
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Discussion & Closing",
+          "description": "Wrap with questions, sourcing tips, and recommendations for Spanish wine and charcuterie back home."
+        }
+      ],
+      "included": [
+        "Private sommelier",
+        "Five premium wine pairings",
+        "Hand-carved jamón ibérico and Spanish charcuterie",
+        "Artisan bread and accompaniments",
+        "Tasting notes and wine/food recommendations"
+      ],
+      "notIncluded": [
+        "Transportation to venue",
+        "Additional wine bottles (can be purchased)",
+        "Full dinner (this is a tasting experience)"
+      ],
+      "specialFeatures": [
+        "Only the highest-grade jamón ibérico de bellota",
+        "Sommelier-selected Grand Cru-level wines",
+        "Private setting, no rushed pacing",
+        "Educational yet relaxed atmosphere"
+      ],
+      "bookingDetails": {
+        "advanceNotice": "3 days minimum",
+        "cancellationPolicy": "Full refund 72+ hours before. 50% within 72 hours. No refund day-of.",
+        "dresscode": "Smart casual",
+        "accessibility": "Wheelchair accessible venue"
+      },
+      "dietaryAccommodations": ["Pescatarian substitutions available", "Gluten-free bread available"],
       "city": "Madrid"
     },
     {
       "id": 6,
       "title": "Rooftop Champagne Supper",
-      "category": "Food & Wine",
-      "price": 780,
+      "category": "Fine Dining & Wine",
+      "price": 950,
+      "duration": "3 hours",
+      "groupSize": "Private for 2-6 guests",
+      "languages": ["English", "Spanish"],
+      "meetingPoint": "Disclosed upon booking (exclusive rooftop location)",
       "image": "https://i.imgur.com/FPjUS0E.jpg",
-      "description": "Sunset dining with champagne service on a secluded Madrid rooftop.",
+      "description": "Sunset dining with champagne service on a secluded Madrid rooftop. This is an entirely private evening: your table, your view, your champagne selection, and a curated multi-course meal prepared by a private chef. No crowds, no noise—just Madrid's skyline, golden hour light, and exceptional hospitality.",
+      "detailedItinerary": [
+        {
+          "time": "7:30 PM",
+          "title": "Arrival & Champagne Reception",
+          "description": "Arrive at an exclusive rooftop terrace. Begin with champagne and canapés as the sun begins its descent over Madrid."
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Sunset Multi-Course Dinner",
+          "description": "Sit for a 5-course meal prepared on-site. Menu features seasonal Spanish ingredients with elegant preparation. Each course paired with champagne or wine."
+        },
+        {
+          "time": "10:00 PM",
+          "title": "Dessert & Night Views",
+          "description": "Close with dessert, coffee, and a final glass of champagne as Madrid's city lights come to life."
+        }
+      ],
+      "included": [
+        "Exclusive rooftop venue rental",
+        "Private chef and service team",
+        "5-course dinner with champagne pairings",
+        "Premium champagne selection (2-3 bottles for group)",
+        "Table setup, decor, and ambiance creation",
+        "Photography moments (professional photographer available as add-on)"
+      ],
+      "notIncluded": [
+        "Transportation to venue",
+        "Additional champagne bottles beyond pairings",
+        "Gratuity for service team"
+      ],
+      "specialFeatures": [
+        "Entirely private rooftop—no other guests",
+        "Sunset timing coordinated for optimal light",
+        "Menu customized to preferences",
+        "Perfect for celebrations or romantic evenings",
+        "Discreet, high-touch service"
+      ],
+      "bookingDetails": {
+        "advanceNotice": "1 week minimum, 2 weeks preferred",
+        "cancellationPolicy": "Full refund 7+ days before. 50% within 7 days. No refund within 72 hours.",
+        "dresscode": "Elegant attire recommended",
+        "accessibility": "Rooftop access requires stairs (elevator available)"
+      },
+      "dietaryAccommodations": ["Menu fully customizable", "All dietary restrictions accommodated with advance notice"],
       "city": "Madrid"
     },
     {
       "id": 7,
       "title": "Michelin Priority Reservations",
-      "category": "Food & Wine",
-      "price": 300,
+      "category": "Fine Dining & Wine",
+      "price": 450,
+      "duration": "Service fee (dinner duration varies)",
+      "groupSize": "Up to 8 guests",
+      "languages": ["English", "Spanish"],
+      "meetingPoint": "N/A - reservation service",
       "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?q=80&w=2070&auto=format&fit=crop",
-      "description": "Secured access to Madrid’s most sought-after dining rooms, by request.",
+      "description": "Secured access to Madrid's most sought-after dining rooms, by request. Whether it's DiverXO, Coque, Smoked Room, or another Michelin-starred address, we handle the reservation process. Tables that are 'fully booked' often have availability through the right channels. This is our concierge fee for securing your reservation.",
+      "detailedItinerary": [
+        {
+          "time": "Upon Booking",
+          "title": "Consultation",
+          "description": "You share your preferred dates, group size, restaurant wishlist, and any dietary needs. We assess availability and provide options."
+        },
+        {
+          "time": "Within 48 Hours",
+          "title": "Confirmation",
+          "description": "We confirm your reservation using our industry relationships and provide all details: time, location, dress code, deposit requirements."
+        },
+        {
+          "time": "Dinner Day",
+          "title": "Your Experience",
+          "description": "You arrive at the restaurant. We've communicated your preferences in advance. You enjoy your meal independently, or we can arrange private transport/guide if desired."
+        }
+      ],
+      "included": [
+        "Priority reservation at top Madrid restaurants",
+        "Communication of dietary needs and special requests",
+        "Confirmation and booking management",
+        "Restaurant recommendations based on your preferences"
+      ],
+      "notIncluded": [
+        "Cost of the meal (paid directly to restaurant)",
+        "Transportation to restaurant",
+        "Wine pairings or additions beyond menu"
+      ],
+      "specialFeatures": [
+        "Access to fully-booked restaurants",
+        "Industry relationships ensure priority",
+        "We handle deposits, confirmations, special requests",
+        "Ideal for special occasions or business dinners"
+      ],
+      "bookingDetails": {
+        "advanceNotice": "Minimum 1 week, 2-4 weeks preferred for top venues",
+        "cancellationPolicy": "Service fee non-refundable once reservation confirmed. Restaurant deposit policies vary.",
+        "dresscode": "Varies by restaurant (communicated upon booking)",
+        "accessibility": "Restaurant-dependent (we can confirm)"
+      },
+      "dietaryAccommodations": ["Communicated to restaurant in advance"],
       "city": "Madrid"
     },
     {
       "id": 8,
       "title": "Private Cocktail Atelier",
-      "category": "Food & Wine",
-      "price": 420,
+      "category": "Tapas & Traditions",
+      "price": 580,
+      "duration": "2.5 hours",
+      "groupSize": "Private for 2-6 guests",
+      "languages": ["English", "Spanish"],
+      "meetingPoint": "Private cocktail lounge or bartender's studio",
       "image": "https://i.imgur.com/xHaT9xU.jpg",
-      "description": "A bespoke cocktail experience designed around your personal palate.",
+      "description": "A bespoke cocktail experience designed around your personal palate. Work with a master mixologist to explore flavor profiles, learn techniques, and create 4-5 custom cocktails. This is hands-on, educational, and social—ideal for cocktail enthusiasts or groups looking for something interactive and refined.",
+      "detailedItinerary": [
+        {
+          "time": "7:00 PM",
+          "title": "Welcome & Flavor Profiling",
+          "description": "Meet your mixologist in a private bar setting. Discuss preferences: sweet, sour, bitter, herbal. Begin with a welcome cocktail tailored to your tastes."
+        },
+        {
+          "time": "7:30 PM",
+          "title": "Hands-On Cocktail Creation",
+          "description": "Learn classic techniques: shaking, stirring, muddling, infusing. Create 4-5 cocktails: a gin-based aperitif, a rum tropical blend, a whiskey old-fashioned variation, a vodka citrus mix, and a signature creation."
+        },
+        {
+          "time": "9:00 PM",
+          "title": "Tasting & Recipe Cards",
+          "description": "Taste all creations, discuss flavor balance, and receive recipe cards to recreate at home. Optional: order light bites to pair."
+        }
+      ],
+      "included": [
+        "Private mixologist and instructor",
+        "Premium spirits and fresh ingredients",
+        "Hands-on instruction and techniques",
+        "4-5 custom cocktails per person",
+        "Recipe cards and mixing tips",
+        "Bar tools and glassware provided"
+      ],
+      "notIncluded": [
+        "Food (light bites available as add-on)",
+        "Additional cocktails beyond session",
+        "Transportation to venue"
+      ],
+      "specialFeatures": [
+        "Fully customized to your flavor preferences",
+        "Interactive and educational",
+        "Private setting, no crowds",
+        "Ideal for pre-dinner activity or celebration"
+      ],
+      "bookingDetails": {
+        "advanceNotice": "3 days minimum",
+        "cancellationPolicy": "Full refund 72+ hours before. 50% within 72 hours. No refund day-of.",
+        "dresscode": "Casual to smart casual",
+        "accessibility": "Wheelchair accessible"
+      },
+      "dietaryAccommodations": ["Non-alcoholic versions available", "Ingredient substitutions for allergies"],
       "city": "Madrid"
     },
     {
       "id": 9,
       "title": "Flamenco Prestige Night",
       "category": "Culture & Art",
-      "price": 480,
+      "price": 620,
+      "duration": "3.5 hours",
+      "groupSize": "Private for 2-6 guests",
+      "languages": ["English", "Spanish"],
+      "meetingPoint": "Your hotel or central Madrid location",
       "image": "https://i.imgur.com/9s9tvF7.jpg",
-      "description": "Front-row seating at a distinguished flamenco venue with curated dinner.",
+      "description": "Front-row seating at a distinguished flamenco venue with curated dinner. This isn't a tourist tablao—it's an intimate peña or respected tablao where the art is raw, emotional, and authentic. Arrive early for a pre-show Spanish dinner, then settle into the best seats as guitarists, singers, and dancers deliver a powerful performance.",
+      "detailedItinerary": [
+        {
+          "time": "8:00 PM",
+          "title": "Dinner Before the Show",
+          "description": "Begin with a traditional Spanish dinner at the venue or nearby restaurant. Tapas, wine, and conversation set the mood."
+        },
+        {
+          "time": "9:30 PM",
+          "title": "Flamenco Performance",
+          "description": "Take your reserved front-row seats. Experience a 75-minute flamenco show featuring live guitar, vocals, and dance. Feel the intensity and passion of authentic flamenco."
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Post-Show Reflection",
+          "description": "Optional: stay for a drink, meet performers if they're available, or have your guide explain the traditions and styles you witnessed."
+        }
+      ],
+      "included": [
+        "Private guide or host for the evening",
+        "Reserved front-row seats",
+        "Pre-show dinner with wine",
+        "Admission to flamenco performance",
+        "Cultural context and history of flamenco"
+      ],
+      "notIncluded": [
+        "Transportation to/from venue",
+        "Additional drinks beyond dinner service",
+        "Gratuity for performers (optional)"
+      ],
+      "specialFeatures": [
+        "Authentic flamenco, not tourist performance",
+        "Front-row seats for intimate experience",
+        "Dinner included for full evening flow",
+        "Guide provides cultural depth"
+      ],
+      "bookingDetails": {
+        "advanceNotice": "1 week minimum",
+        "cancellationPolicy": "Full refund 7+ days before. 50% within 7 days. No refund within 48 hours.",
+        "dresscode": "Smart casual to elegant",
+        "accessibility": "Venue-dependent (most have stairs)"
+      },
+      "dietaryAccommodations": ["Dinner menu can accommodate dietary needs with advance notice"],
       "city": "Madrid"
     },
     {
       "id": 10,
       "title": "Prado Museum: After-Hours Salon",
       "category": "Culture & Art",
-      "price": 690,
+      "price": 850,
+      "duration": "2.5 hours",
+      "groupSize": "Private for 2-8 guests",
+      "languages": ["English", "Spanish"],
+      "meetingPoint": "Prado Museum main entrance",
       "image": "https://i.imgur.com/q5Ug6rv.jpg",
-      "description": "A private art experience exploring masterpieces in a quieter setting.",
+      "description": "A private art experience exploring masterpieces in a quieter setting. While full after-hours private access is rare, this experience offers early-entry or late-stay access with a licensed art historian who tailors the tour to your interests: Velázquez, Goya, Bosch, or a thematic journey through Spanish art history.",
+      "detailedItinerary": [
+        {
+          "time": "Varies (Early or Late Access)",
+          "title": "Arrival & Introduction",
+          "description": "Meet your art historian guide at the Prado. Discuss your interests and preferences for the tour focus."
+        },
+        {
+          "time": "Tour Begins",
+          "title": "Curated Masterpiece Walk",
+          "description": "Explore 15-20 key works with in-depth commentary. Your guide brings historical context, artistic techniques, and stories behind the paintings to life. Focus areas may include: Las Meninas (Velázquez), The Garden of Earthly Delights (Bosch), Goya's Black Paintings, or Spanish Golden Age portraits."
+        },
+        {
+          "time": "Closing",
+          "title": "Q&A and Recommendations",
+          "description": "Close with questions, book recommendations, and suggestions for further art exploration in Madrid."
+        }
+      ],
+      "included": [
+        "Licensed art historian guide",
+        "Early-entry or late-stay museum access",
+        "Skip-the-line admission",
+        "Curated tour tailored to your interests",
+        "Small group ensures personal attention"
+      ],
+      "notIncluded": [
+        "Transportation to museum",
+        "Audio guides (not needed with private guide)",
+        "Food or beverages"
+      ],
+      "specialFeatures": [
+        "Quieter museum experience (fewer crowds)",
+        "Expert guide with deep art knowledge",
+        "Fully customizable to your interests",
+        "Ideal for art enthusiasts or first-time visitors"
+      ],
+      "bookingDetails": {
+        "advanceNotice": "1 week minimum",
+        "cancellationPolicy": "Full refund 7+ days before. 50% within 7 days. No refund within 48 hours.",
+        "dresscode": "Casual",
+        "accessibility": "Museum is wheelchair accessible"
+      },
+      "dietaryAccommodations": ["N/A"],
       "city": "Madrid"
     },
     {
       "id": 11,
       "title": "Liria Palace Private Tour",
       "category": "Culture & Art",
-      "price": 540,
+      "price": 720,
+      "duration": "2 hours",
+      "groupSize": "Private for 2-6 guests",
+      "languages": ["English", "Spanish"],
+      "meetingPoint": "Liria Palace entrance",
       "image": "https://i.imgur.com/Oylr5Sp.jpg",
-      "description": "An exclusive visit to one of Madrid’s most aristocratic residences.",
+      "description": "An exclusive visit to one of Madrid's most aristocratic residences. Liria Palace, home to the House of Alba, houses an extraordinary private art collection: works by Goya, Titian, Rubens, and more. This private tour offers access beyond the standard visitor experience, with insights into the family's history and the palace's role in Spanish nobility.",
+      "detailedItinerary": [
+        {
+          "time": "Scheduled Start",
+          "title": "Palace Introduction",
+          "description": "Meet your guide at the palace entrance. Learn about the House of Alba and the building's architectural history."
+        },
+        {
+          "time": "Main Tour",
+          "title": "Art Collection & State Rooms",
+          "description": "Walk through opulent halls filled with masterpieces. Your guide explains the significance of key works, the family's collecting traditions, and anecdotes about Spanish aristocracy."
+        },
+        {
+          "time": "Closing",
+          "title": "Gardens & Reflection",
+          "description": "If weather permits, visit the palace gardens. Close with Q&A and photo opportunities."
+        }
+      ],
+      "included": [
+        "Private guided tour of Liria Palace",
+        "Skip-the-line admission",
+        "Access to state rooms and art collection",
+        "Expert commentary on history and art",
+        "Small group ensures intimate experience"
+      ],
+      "notIncluded": [
+        "Transportation to palace",
+        "Photography inside certain rooms (restrictions apply)",
+        "Food or beverages"
+      ],
+      "specialFeatures": [
+        "Access to one of Spain's grandest private palaces",
+        "World-class art collection rarely seen publicly",
+        "Private tour with expert guide",
+        "Insight into Spanish nobility and history"
+      ],
+      "bookingDetails": {
+        "advanceNotice": "1 week minimum",
+        "cancellationPolicy": "Full refund 7+ days before. 50% within 7 days. No refund within 48 hours.",
+        "dresscode": "Smart casual to elegant",
+        "accessibility": "Limited wheelchair access (stairs throughout)"
+      },
+      "dietaryAccommodations": ["N/A"],
       "city": "Madrid"
     },
     {
       "id": 12,
       "title": "Royal Madrid by Chauffeur",
       "category": "Culture & Art",
-      "price": 1100,
+      "price": 1400,
+      "duration": "Full day (8 hours)",
+      "groupSize": "Private for 2-6 guests",
+      "languages": ["English", "Spanish"],
+      "meetingPoint": "Your hotel",
       "image": "https://i.imgur.com/8Bmxb95.jpg",
-      "description": "A chauffeured exploration of palaces and historic quarters.",
+      "description": "A chauffeured exploration of palaces and historic quarters. This full-day journey covers Madrid's royal heritage: the Royal Palace, El Escorial monastery, and elegant neighborhoods tied to Spanish monarchy. Travel in comfort with a private driver and expert guide who brings centuries of history to life.",
+      "detailedItinerary": [
+        {
+          "time": "9:00 AM",
+          "title": "Hotel Pickup",
+          "description": "Your chauffeur and guide collect you in a luxury vehicle. Depart for the Royal Palace with introductory commentary."
+        },
+        {
+          "time": "10:00 AM",
+          "title": "Royal Palace of Madrid",
+          "description": "Guided tour of Europe's largest royal palace. Explore opulent state rooms, the throne room, royal armory, and chapel."
+        },
+        {
+          "time": "12:30 PM",
+          "title": "Drive to El Escorial",
+          "description": "Scenic 45-minute drive to El Escorial, the royal monastery and mausoleum. Lunch en route at a traditional Spanish restaurant."
+        },
+        {
+          "time": "2:30 PM",
+          "title": "El Escorial Monastery",
+          "description": "Tour this UNESCO World Heritage site. Explore the basilica, library, royal pantheon, and art collection."
+        },
+        {
+          "time": "4:30 PM",
+          "title": "Return to Madrid",
+          "description": "Drive back through elegant neighborhoods. Optional stops: Sabatini Gardens, Plaza de Oriente, or a viewpoint overlooking the city."
+        },
+        {
+          "time": "5:30 PM",
+          "title": "Return to Hotel",
+          "description": "Drop-off at your hotel with time to rest before dinner."
+        }
+      ],
+      "included": [
+        "Private luxury vehicle and chauffeur (8 hours)",
+        "Expert guide for full day",
+        "Skip-the-line admission to Royal Palace and El Escorial",
+        "Lunch at traditional Spanish restaurant",
+        "Water and refreshments in vehicle"
+      ],
+      "notIncluded": [
+        "Dinner",
+        "Additional site admissions beyond listed",
+        "Gratuity for driver and guide"
+      ],
+      "specialFeatures": [
+        "Comfortable, chauffeured travel",
+        "Two major royal sites in one day",
+        "Expert historical commentary",
+        "Fully private, customizable pacing"
+      ],
+      "bookingDetails": {
+        "advanceNotice": "1 week minimum",
+        "cancellationPolicy": "Full refund 7+ days before. 50% within 7 days. No refund within 72 hours.",
+        "dresscode": "Comfortable walking shoes, smart casual",
+        "accessibility": "Vehicle is wheelchair accessible; palaces have some limitations"
+      },
+      "dietaryAccommodations": ["Lunch restaurant can accommodate dietary needs"],
       "city": "Madrid"
     },
     {
       "id": 13,
-      "title": "Collector’s Gallery Circuit",
+      "title": "Collector's Gallery Circuit",
       "category": "Culture & Art",
-      "price": 420,
+      "price": 580,
+      "duration": "3 hours",
+      "groupSize": "Private for 2-6 guests",
+      "languages": ["English", "Spanish"],
+      "meetingPoint": "Central Madrid gallery district",
       "image": "https://i.imgur.com/e4zwE6M.jpg",
-      "description": "A private walk through Madrid’s contemporary art scene with a curator.",
+      "description": "A private walk through Madrid's contemporary art scene with a curator. Visit 3-4 galleries showcasing emerging and established Spanish artists. Your guide provides insider context on the works, the artists, and Madrid's evolving art market. Ideal for collectors, enthusiasts, or anyone curious about Spain's modern creative landscape.",
+      "detailedItinerary": [
+        {
+          "time": "11:00 AM",
+          "title": "Gallery Introduction",
+          "description": "Meet your curator guide in Madrid's gallery district (Barrio de las Letras or Salamanca). Discuss your interests: painting, sculpture, photography, mixed media."
+        },
+        {
+          "time": "11:15 AM",
+          "title": "First Gallery Visit",
+          "description": "Explore a gallery featuring contemporary Spanish painters. Your guide explains techniques, themes, and the artist's trajectory."
+        },
+        {
+          "time": "12:00 PM",
+          "title": "Second & Third Galleries",
+          "description": "Visit galleries showcasing sculpture, photography, or conceptual art. Engage directly with gallerists when possible."
+        },
+        {
+          "time": "1:30 PM",
+          "title": "Closing Coffee",
+          "description": "End with coffee at a nearby café. Discuss what you saw, artist contacts, and purchasing processes if interested."
+        }
+      ],
+      "included": [
+        "Private curator guide",
+        "Access to 3-4 curated galleries",
+        "Insider commentary on artists and works",
+        "Introduction to gallerists (when available)",
+        "Coffee at closing"
+      ],
+      "notIncluded": [
+        "Art purchases (negotiated separately)",
+        "Transportation between galleries (walking tour)",
+        "Lunch"
+      ],
+      "specialFeatures": [
+        "Insider access to Madrid's art scene",
+        "Curator with gallery relationships",
+        "Tailored to your art interests",
+        "Ideal for collectors or art lovers"
+      ],
+      "bookingDetails": {
+        "advanceNotice": "1 week minimum",
+        "cancellationPolicy": "Full refund 7+ days before. 50% within 7 days. No refund within 48 hours.",
+        "dresscode": "Casual to smart casual",
+        "accessibility": "Most galleries are ground level or have elevators"
+      },
+      "dietaryAccommodations": ["N/A"],
       "city": "Madrid"
     },
     {
       "id": 14,
       "title": "Architectural Madrid at Golden Hour",
       "category": "Culture & Art",
-      "price": 260,
+      "price": 380,
+      "duration": "2.5 hours",
+      "groupSize": "Private for 2-8 guests",
+      "languages": ["English", "Spanish"],
+      "meetingPoint": "Central Madrid (location varies by season for optimal light)",
       "image": "https://i.imgur.com/ynQVp8N.jpg",
-      "description": "A guided walk highlighting the city’s most elegant architectural moments.",
+      "description": "A guided walk highlighting the city's most elegant architectural moments. Timed for golden hour, this tour explores Madrid's blend of Habsburg, Bourbon, Art Deco, and contemporary architecture. Your guide—an architect or architectural historian—explains design choices, urban planning, and the stories behind Madrid's most beautiful buildings.",
+      "detailedItinerary": [
+        {
+          "time": "1 Hour Before Sunset",
+          "title": "Tour Begins",
+          "description": "Meet your guide at a central location. Begin walking through historic or modern districts, depending on your interests."
+        },
+        {
+          "time": "Main Walk",
+          "title": "Architectural Highlights",
+          "description": "Visit 8-10 significant buildings: Gran Vía Art Deco facades, Cibeles Palace, Metropolis Building, Habsburg-era courtyards, or contemporary structures like CaixaForum. Your guide explains styles, materials, and historical context."
+        },
+        {
+          "time": "Golden Hour",
+          "title": "Photography & Reflection",
+          "description": "Pause at key viewpoints as the sun sets. Capture photos, ask questions, and absorb the beauty of Madrid's architecture in soft light."
+        }
+      ],
+      "included": [
+        "Private architect or architectural historian guide",
+        "Curated walking route",
+        "Insight into design, history, and urban planning",
+        "Photography guidance for best shots"
+      ],
+      "notIncluded": [
+        "Entry to buildings (exterior focus)",
+        "Transportation (this is a walking tour)",
+        "Food or beverages"
+      ],
+      "specialFeatures": [
+        "Timed for optimal light and atmosphere",
+        "Expert guide with architectural expertise",
+        "Flexible route based on your interests",
+        "Ideal for design lovers or photographers"
+      ],
+      "bookingDetails": {
+        "advanceNotice": "3 days minimum",
+        "cancellationPolicy": "Full refund 72+ hours before. No refund within 72 hours.",
+        "dresscode": "Comfortable walking shoes",
+        "accessibility": "Walking tour, some uneven cobblestones"
+      },
+      "dietaryAccommodations": ["N/A"],
       "city": "Madrid"
     },
     {
       "id": 15,
       "title": "Spanish Masters: Art & History",
       "category": "Culture & Art",
-      "price": 390,
+      "price": 520,
+      "duration": "3 hours",
+      "groupSize": "Private for 2-8 guests",
+      "languages": ["English", "Spanish"],
+      "meetingPoint": "Art museum or historic site (varies by focus)",
       "image": "https://i.imgur.com/ZzGTSYW.jpg",
-      "description": "A refined cultural overview led by a licensed art historian.",
+      "description": "A refined cultural overview led by a licensed art historian. This experience can focus on a single museum (Prado, Reina Sofía, Thyssen) or a thematic walk connecting art to Madrid's history. Your guide tailors the tour to your level of interest—whether you're a first-time visitor or a seasoned art lover.",
+      "detailedItinerary": [
+        {
+          "time": "Scheduled Start",
+          "title": "Introduction & Focus Setting",
+          "description": "Meet your art historian. Discuss your interests: Spanish Golden Age, Goya, Picasso, or a historical art journey."
+        },
+        {
+          "time": "Main Tour",
+          "title": "In-Depth Exploration",
+          "description": "Spend 2-2.5 hours exploring your chosen focus. Your guide provides historical context, artistic analysis, and connections between art and Spanish history."
+        },
+        {
+          "time": "Closing",
+          "title": "Q&A and Recommendations",
+          "description": "Close with questions and suggestions for further cultural exploration in Madrid."
+        }
+      ],
+      "included": [
+        "Licensed art historian guide",
+        "Museum admission (if applicable)",
+        "Curated tour tailored to your interests",
+        "Historical and artistic context"
+      ],
+      "notIncluded": [
+        "Transportation to meeting point",
+        "Food or beverages",
+        "Additional museum visits beyond agreed scope"
+      ],
+      "specialFeatures": [
+        "Expert guide with academic credentials",
+        "Fully customizable to your interests",
+        "Ideal for art lovers or cultural travelers",
+        "Can combine museum and walking elements"
+      ],
+      "bookingDetails": {
+        "advanceNotice": "1 week minimum",
+        "cancellationPolicy": "Full refund 7+ days before. 50% within 7 days. No refund within 48 hours.",
+        "dresscode": "Casual",
+        "accessibility": "Museum-dependent (most are accessible)"
+      },
+      "dietaryAccommodations": ["N/A"],
       "city": "Madrid"
     },
     {
       "id": 16,
       "title": "Retiro Elegance: Rowboats & Picnic",
       "category": "Leisure & Experiences",
-      "price": 340,
+      "price": 480,
+      "duration": "3 hours",
+      "groupSize": "Private for 2-4 guests",
+      "languages": ["English", "Spanish"],
+      "meetingPoint": "Retiro Park entrance",
       "image": "https://i.imgur.com/HynF3Fd.jpg",
-      "description": "A serene afternoon on the lake with a curated picnic arrangement.",
+      "description": "A serene afternoon on the lake with a curated picnic arrangement. This is Madrid's most elegant park experience: a private rowboat on the Estanque Grande, followed by a gourmet picnic in a secluded spot. We handle all logistics—you simply arrive and enjoy.",
+      "detailedItinerary": [
+        {
+          "time": "12:00 PM",
+          "title": "Park Arrival & Rowboat",
+          "description": "Meet at Retiro Park. Your host guides you to the lake where a rowboat is reserved. Spend 45 minutes on the water at your own pace."
+        },
+        {
+          "time": "1:00 PM",
+          "title": "Picnic Setup",
+          "description": "Dock and walk to a pre-arranged picnic spot. Find a beautifully set blanket, cushions, and a gourmet spread waiting."
+        },
+        {
+          "time": "1:15 PM",
+          "title": "Picnic & Relaxation",
+          "description": "Enjoy Spanish cheeses, jamón, fresh bread, seasonal fruit, pastries, wine, and sparkling water. Stay as long as you like (up to 2 hours)."
+        },
+        {
+          "time": "3:00 PM",
+          "title": "Closing",
+          "description": "We collect the setup. You're free to continue exploring the park or depart at your leisure."
+        }
+      ],
+      "included": [
+        "Private rowboat rental (45 minutes)",
+        "Gourmet picnic for your group",
+        "Picnic setup and breakdown",
+        "Wine, water, and refreshments",
+        "Host to guide you and handle logistics"
+      ],
+      "notIncluded": [
+        "Transportation to park",
+        "Additional food or beverages beyond picnic",
+        "Park activities beyond boat and picnic"
+      ],
+      "specialFeatures": [
+        "Private, serene experience in Madrid's best park",
+        "Gourmet picnic curated for quality",
+        "Perfect for couples, families, or small groups",
+        "Relaxed pacing, no rushing"
+      ],
+      "bookingDetails": {
+        "advanceNotice": "3 days minimum",
+        "cancellationPolicy": "Full refund 72+ hours before. 50% within 72 hours. No refund day-of. Weather-dependent (rescheduled if rain).",
+        "dresscode": "Casual, comfortable for sitting on ground",
+        "accessibility": "Park is accessible; rowboat requires mobility"
+      },
+      "dietaryAccommodations": ["Picnic fully customizable", "Dietary restrictions accommodated"],
       "city": "Madrid"
     },
     {
       "id": 17,
       "title": "Bernabéu Legends Experience",
       "category": "Leisure & Experiences",
-      "price": 320,
+      "price": 450,
+      "duration": "2.5 hours",
+      "groupSize": "Private for 2-8 guests",
+      "languages": ["English", "Spanish"],
+      "meetingPoint": "Santiago Bernabéu Stadium",
       "image": "https://i.imgur.com/88EvjWb.jpg",
-      "description": "A premium stadium visit highlighting Real Madrid’s legacy.",
+      "description": "A premium stadium visit highlighting Real Madrid's legacy. This isn't the standard tour—it's a private experience with a guide who knows the club's history deeply. Walk through the players' tunnel, visit the trophy room, see the pitch from the presidential box, and learn stories behind the legends.",
+      "detailedItinerary": [
+        {
+          "time": "Scheduled Start",
+          "title": "Stadium Introduction",
+          "description": "Meet your guide at the Bernabéu. Begin with an overview of the club's founding and its role in Spanish football history."
+        },
+        {
+          "time": "Main Tour",
+          "title": "Behind-the-Scenes Access",
+          "description": "Visit the locker rooms, players' tunnel, pitch-side seats, press room, and trophy room. Your guide shares anecdotes about iconic matches and players."
+        },
+        {
+          "time": "Presidential Box",
+          "title": "VIP View",
+          "description": "See the stadium from the presidential box. Understand the club's business side and its global impact."
+        },
+        {
+          "time": "Closing",
+          "title": "Museum & Shop",
+          "description": "Close with time in the museum and official shop if desired."
+        }
+      ],
+      "included": [
+        "Private stadium guide",
+        "Skip-the-line access",
+        "Behind-the-scenes areas (locker room, tunnel, press room)",
+        "Trophy room and museum visit",
+        "Presidential box access"
+      ],
+      "notIncluded": [
+        "Transportation to stadium",
+        "Merchandise purchases",
+        "Match-day tickets (this is a non-match-day tour)"
+      ],
+      "specialFeatures": [
+        "Private tour, not group experience",
+        "Guide with deep Real Madrid knowledge",
+        "Access to VIP areas",
+        "Ideal for football fans or families"
+      ],
+      "bookingDetails": {
+        "advanceNotice": "1 week minimum",
+        "cancellationPolicy": "Full refund 7+ days before. 50% within 7 days. No refund within 48 hours.",
+        "dresscode": "Casual",
+        "accessibility": "Wheelchair accessible"
+      },
+      "dietaryAccommodations": ["N/A"],
       "city": "Madrid"
     },
     {
       "id": 18,
       "title": "Madrid Rooftop Sunset Escape",
       "category": "Leisure & Experiences",
-      "price": 260,
+      "price": 350,
+      "duration": "2 hours",
+      "groupSize": "Private for 2-6 guests",
+      "languages": ["English", "Spanish"],
+      "meetingPoint": "Rooftop location (disclosed upon booking)",
       "image": "https://i.imgur.com/ZH1YcrZ.jpg",
-      "description": "Reserved access to a panoramic viewpoint at sunset.",
+      "description": "Reserved access to a panoramic viewpoint at sunset. This is a private rooftop reservation—no crowds, just your group, Madrid's skyline, and golden hour light. We provide a welcome drink, light bites, and a relaxed atmosphere. Perfect for unwinding after a day of exploring.",
+      "detailedItinerary": [
+        {
+          "time": "1 Hour Before Sunset",
+          "title": "Arrival & Welcome Drink",
+          "description": "Arrive at the rooftop. Your host greets you with a welcome drink (cava, wine, or cocktail)."
+        },
+        {
+          "time": "Sunset Hour",
+          "title": "Relax & Enjoy",
+          "description": "Settle into reserved seating. Light bites (Spanish olives, nuts, cheese) are served. Watch the sunset over Madrid's rooftops and landmarks."
+        },
+        {
+          "time": "After Sunset",
+          "title": "Evening Atmosphere",
+          "description": "Stay for a second drink and watch the city lights come on. Depart at your leisure."
+        }
+      ],
+      "included": [
+        "Reserved rooftop access",
+        "Welcome drink per person",
+        "Light bites and snacks",
+        "Host for setup and service",
+        "No crowds—private or semi-private space"
+      ],
+      "notIncluded": [
+        "Transportation to rooftop",
+        "Additional drinks beyond welcome service",
+        "Full dinner"
+      ],
+      "specialFeatures": [
+        "Timed perfectly for sunset",
+        "Reserved space, no crowds",
+        "Relaxed, no-pressure atmosphere",
+        "Ideal for couples, friends, or small groups"
+      ],
+      "bookingDetails": {
+        "advanceNotice": "3 days minimum",
+        "cancellationPolicy": "Full refund 72+ hours before. 50% within 72 hours. No refund day-of. Weather-dependent (rescheduled if rain).",
+        "dresscode": "Smart casual",
+        "accessibility": "Rooftop access requires stairs (elevator available at some locations)"
+      },
+      "dietaryAccommodations": ["Light bites can accommodate dietary needs"],
       "city": "Madrid"
     },
     {
       "id": 19,
       "title": "Luxury Shopping & Styling Session",
       "category": "Leisure & Experiences",
-      "price": 650,
+      "price": 1200,
+      "duration": "4 hours",
+      "groupSize": "Private for 1-2 guests",
+      "languages": ["English", "Spanish"],
+      "meetingPoint": "Your hotel or Salamanca district",
       "image": "https://i.imgur.com/6s9SQFG.jpg",
-      "description": "A private styling experience in Madrid’s most exclusive districts.",
+      "description": "A private styling experience in Madrid's most exclusive districts. Work with a professional stylist who knows Madrid's luxury boutiques, designer showrooms, and hidden ateliers. Whether you're building a wardrobe, seeking a signature piece, or simply enjoying the experience, this is shopping done with expertise and discretion.",
+      "detailedItinerary": [
+        {
+          "time": "10:00 AM",
+          "title": "Consultation",
+          "description": "Meet your stylist. Discuss your style preferences, wardrobe needs, budget, and goals for the session."
+        },
+        {
+          "time": "10:30 AM",
+          "title": "Boutique Tour",
+          "description": "Visit 3-5 curated boutiques in Salamanca or Justicia districts. Your stylist pre-selects pieces based on your consultation. Try on items with expert feedback."
+        },
+        {
+          "time": "12:30 PM",
+          "title": "Designer Showroom (Optional)",
+          "description": "If interested, visit a designer showroom for exclusive or custom pieces."
+        },
+        {
+          "time": "1:30 PM",
+          "title": "Closing & Recommendations",
+          "description": "Wrap with styling tips, outfit combinations, and care recommendations for your purchases."
+        }
+      ],
+      "included": [
+        "Private professional stylist (4 hours)",
+        "Pre-session consultation",
+        "Curated boutique access",
+        "Personal shopping assistance",
+        "Styling advice and outfit recommendations"
+      ],
+      "notIncluded": [
+        "Cost of clothing or accessories (paid directly to boutiques)",
+        "Transportation between boutiques (walking or arranged transport)",
+        "Lunch"
+      ],
+      "specialFeatures": [
+        "Expert stylist with Madrid fashion knowledge",
+        "Access to exclusive boutiques and showrooms",
+        "Personalized to your style and needs",
+        "Discreet, high-touch service"
+      ],
+      "bookingDetails": {
+        "advanceNotice": "1 week minimum",
+        "cancellationPolicy": "Full refund 7+ days before. 50% within 7 days. No refund within 48 hours.",
+        "dresscode": "Comfortable for trying on clothing",
+        "accessibility": "Most boutiques are accessible"
+      },
+      "dietaryAccommodations": ["N/A"],
       "city": "Madrid"
     },
     {
       "id": 20,
       "title": "Private Photography Walk",
       "category": "Leisure & Experiences",
-      "price": 520,
+      "price": 750,
+      "duration": "3 hours",
+      "groupSize": "Private for 1-6 guests",
+      "languages": ["English", "Spanish"],
+      "meetingPoint": "Your hotel or central Madrid location",
       "image": "https://i.imgur.com/7dyeTcW.jpg",
-      "description": "A discreet photo session capturing Madrid’s most elegant settings.",
+      "description": "A discreet photo session capturing Madrid's most elegant settings. Work with a professional photographer who knows the city's best backdrops: hidden courtyards, art deco facades, historic plazas, and golden-hour light. This isn't a tourist photo package—it's a creative collaboration resulting in high-quality images you'll treasure.",
+      "detailedItinerary": [
+        {
+          "time": "Flexible (Best at Golden Hour)",
+          "title": "Consultation & Route Planning",
+          "description": "Meet your photographer. Discuss your vision: candid, posed, couple, family, or solo portraits. Plan the route based on lighting and your style."
+        },
+        {
+          "time": "Main Session",
+          "title": "Photo Walk",
+          "description": "Spend 2-2.5 hours walking through curated locations. Your photographer directs poses naturally, captures candid moments, and uses Madrid's architecture and light to create stunning images."
+        },
+        {
+          "time": "Closing",
+          "title": "Wrap & Preview",
+          "description": "Close with a quick preview of shots. Photographer provides details on editing timeline and delivery."
+        }
+      ],
+      "included": [
+        "Professional photographer (3 hours)",
+        "Curated route for optimal backdrops",
+        "Direction and posing guidance",
+        "50+ edited high-resolution digital images",
+        "Online gallery delivery within 1 week"
+      ],
+      "notIncluded": [
+        "Transportation to locations",
+        "Printed photos (digital only)",
+        "Hair/makeup services (can be arranged as add-on)"
+      ],
+      "specialFeatures": [
+        "Professional photographer with Madrid expertise",
+        "Curated locations, not touristy spots",
+        "Natural, elegant photography style",
+        "Ideal for couples, families, or solo travelers"
+      ],
+      "bookingDetails": {
+        "advanceNotice": "1 week minimum",
+        "cancellationPolicy": "Full refund 7+ days before. 50% within 7 days. No refund within 48 hours. Weather-dependent (rescheduled if rain).",
+        "dresscode": "Your choice—photographer advises on colors",
+        "accessibility": "Walking tour, some uneven surfaces"
+      },
+      "dietaryAccommodations": ["N/A"],
       "city": "Madrid"
     },
     {
       "id": 21,
       "title": "Madrid Nightlife Concierge Plan",
       "category": "Nightlife & Access",
-      "price": 650,
+      "price": 850,
+      "duration": "5 hours (evening)",
+      "groupSize": "Private for 2-8 guests",
+      "languages": ["English", "Spanish"],
+      "meetingPoint": "Your hotel or central Madrid location",
       "image": "https://i.imgur.com/qgsMLiv.jpg",
-      "description": "Seamless access to the city’s most selective evening venues.",
+      "description": "Seamless access to the city's most selective evening venues. This is full nightlife concierge: we design your evening based on your preferences (cocktail bars, rooftop lounges, clubs), secure guestlist access, arrange VIP treatment, and provide a host to guide you through Madrid's after-dark scene. No waiting in lines, no guessing—just quality venues and smooth transitions.",
+      "detailedItinerary": [
+        {
+          "time": "10:00 PM",
+          "title": "Evening Begins",
+          "description": "Your host meets you at your hotel or a central location. Discuss the vibe you want: upscale cocktails, live music, dancing, or a mix."
+        },
+        {
+          "time": "10:30 PM",
+          "title": "First Venue",
+          "description": "Start at a cocktail bar or rooftop lounge. Guestlist access, reserved seating or table. Host introduces you to the venue and ensures smooth service."
+        },
+        {
+          "time": "12:00 AM",
+          "title": "Second Venue",
+          "description": "Move to a second location—perhaps a late-night bar or club. VIP entry, no cover charge. Host coordinates transitions."
+        },
+        {
+          "time": "2:00 AM",
+          "title": "Optional Third Venue",
+          "description": "If you're still going, visit a final club or late-night spot. Guestlist secured. Stay as long as you like."
+        },
+        {
+          "time": "Closing",
+          "title": "Safe Return",
+          "description": "When you're ready, host arranges taxi or ride back to your hotel."
+        }
+      ],
+      "included": [
+        "Private nightlife host (5 hours)",
+        "Guestlist access at 2-3 venues",
+        "No cover charges at selected venues",
+        "VIP treatment and reserved seating (where available)",
+        "Seamless transitions between venues"
+      ],
+      "notIncluded": [
+        "Drinks and bottle service (paid directly at venues)",
+        "Transportation (taxis arranged, paid separately)",
+        "Gratuity for host"
+      ],
+      "specialFeatures": [
+        "Access to Madrid's selective nightlife scene",
+        "No waiting in lines",
+        "Curated venue selection based on your preferences",
+        "Host ensures smooth, enjoyable evening"
+      ],
+      "bookingDetails": {
+        "advanceNotice": "1 week minimum, 2 weeks for peak dates",
+        "cancellationPolicy": "Full refund 7+ days before. 50% within 7 days. No refund within 48 hours.",
+        "dresscode": "Smart casual to elegant (venue-specific advice provided)",
+        "accessibility": "Nightlife venues vary (discuss specific needs in advance)"
+      },
+      "dietaryAccommodations": ["N/A"],
       "city": "Madrid"
     },
     {
       "id": 22,
       "title": "VIP Table & Guestlist Access",
       "category": "Nightlife & Access",
-      "price": 1800,
+      "price": 2500,
+      "duration": "Full evening (5-6 hours)",
+      "groupSize": "Private for 4-10 guests",
+      "languages": ["English", "Spanish"],
+      "meetingPoint": "Your hotel or central Madrid location",
       "image": "https://i.imgur.com/qfodPkr.jpg",
-      "description": "Priority entry and table service at a premier Madrid nightlife address.",
+      "description": "Priority entry and table service at a premier Madrid nightlife address. This is top-tier nightlife: reserved VIP table, bottle service, no waiting, and a dedicated host to manage your evening. Whether it's a special celebration or simply the best night out in Madrid, this is the experience for those who expect the highest level of service and access.",
+      "detailedItinerary": [
+        {
+          "time": "10:00 PM",
+          "title": "Pre-Club Cocktails",
+          "description": "Meet your host at a high-end cocktail bar. Begin the evening with drinks and conversation before heading to the main venue."
+        },
+        {
+          "time": "12:00 AM",
+          "title": "VIP Club Arrival",
+          "description": "Arrive at Madrid's top club. Skip all lines, proceed directly to your reserved VIP table with premium bottle service."
+        },
+        {
+          "time": "12:30 AM - 4:00 AM",
+          "title": "VIP Table Experience",
+          "description": "Enjoy your table with dedicated server, premium spirits, mixers, and VIP treatment. Dance, socialize, and experience Madrid's nightlife at its finest."
+        },
+        {
+          "time": "Closing",
+          "title": "Safe Return",
+          "description": "When you're ready to leave, your host arranges premium transportation back to your hotel."
+        }
+      ],
+      "included": [
+        "Private nightlife host for full evening",
+        "Reserved VIP table at premier club",
+        "Bottle service package (2-3 premium bottles)",
+        "Mixers, ice, and table setup",
+        "Priority entry, no cover charge",
+        "Dedicated server for your table"
+      ],
+      "notIncluded": [
+        "Additional bottles beyond package",
+        "Food (available at some venues)",
+        "Transportation (premium car arranged separately)",
+        "Gratuity for server and host"
+      ],
+      "specialFeatures": [
+        "VIP table at Madrid's most exclusive club",
+        "No waiting, priority treatment throughout",
+        "Bottle service and dedicated server",
+        "Ideal for celebrations, bachelor/bachelorette parties, or luxury nightlife experience",
+        "Host manages all logistics"
+      ],
+      "bookingDetails": {
+        "advanceNotice": "2 weeks minimum, 1 month for peak dates",
+        "cancellationPolicy": "Deposit required. Full refund 14+ days before. 50% within 14 days. No refund within 7 days.",
+        "dresscode": "Elegant—designer attire recommended. Strict dress code enforced.",
+        "accessibility": "Club access varies (discuss specific needs in advance)"
+      },
+      "dietaryAccommodations": ["N/A"],
       "city": "Madrid"
     },
     {
       "id": 23,
       "title": "Toledo Private Heritage Journey",
       "category": "Private Journeys",
-      "price": 1450,
+      "price": 1850,
+      "duration": "Full day (9 hours)",
+      "groupSize": "Private for 2-6 guests",
+      "languages": ["English", "Spanish"],
+      "meetingPoint": "Your hotel",
       "image": "https://i.imgur.com/v6l47ax.jpg",
-      "description": "A chauffeured day beyond Madrid, curated with a private guide and unhurried pace.",
+      "description": "A chauffeured day beyond Madrid, curated with a private guide and unhurried pace. Toledo, the 'City of Three Cultures,' is a UNESCO World Heritage site where Christian, Jewish, and Muslim heritage converge. This is a full-day immersion: luxury transport, expert guide, curated stops, and a traditional lunch. Return to Madrid in the evening, enriched by Spain's layered history.",
+      "detailedItinerary": [
+        {
+          "time": "9:00 AM",
+          "title": "Hotel Pickup",
+          "description": "Your chauffeur and guide collect you in a luxury vehicle. Scenic 1-hour drive to Toledo with historical commentary en route."
+        },
+        {
+          "time": "10:00 AM",
+          "title": "Toledo Cathedral",
+          "description": "Begin with Spain's most important Gothic cathedral. Admire the architecture, art, and sacristy treasures."
+        },
+        {
+          "time": "11:30 AM",
+          "title": "Jewish Quarter & Synagogues",
+          "description": "Walk through the ancient Jewish quarter. Visit Santa María la Blanca and El Tránsito synagogues."
+        },
+        {
+          "time": "1:00 PM",
+          "title": "Traditional Lunch",
+          "description": "Enjoy a leisurely lunch at a classic Toledo restaurant. Castilian cuisine, local wine, and relaxed atmosphere."
+        },
+        {
+          "time": "3:00 PM",
+          "title": "Alcázar & Panoramic Views",
+          "description": "Visit the Alcázar fortress. Walk to a viewpoint overlooking the Tagus River and Toledo's skyline."
+        },
+        {
+          "time": "4:30 PM",
+          "title": "El Greco Museum or Free Time",
+          "description": "Option: visit the El Greco Museum or explore Toledo's artisan shops (damascene work, marzipan)."
+        },
+        {
+          "time": "5:30 PM",
+          "title": "Return to Madrid",
+          "description": "Depart Toledo. Return to your Madrid hotel by 6:30 PM."
+        }
+      ],
+      "included": [
+        "Private luxury vehicle and chauffeur (9 hours)",
+        "Expert guide for full day",
+        "Skip-the-line admissions (Cathedral, synagogues, Alcázar)",
+        "Traditional Castilian lunch with wine",
+        "Water and refreshments in vehicle"
+      ],
+      "notIncluded": [
+        "Dinner",
+        "Personal purchases (souvenirs, artisan goods)",
+        "Gratuity for driver and guide"
+      ],
+      "specialFeatures": [
+        "UNESCO World Heritage city",
+        "Full-day private experience with expert guide",
+        "Comfortable, chauffeured travel",
+        "Curated itinerary with unhurried pacing",
+        "Ideal for history and culture enthusiasts"
+      ],
+      "bookingDetails": {
+        "advanceNotice": "1 week minimum",
+        "cancellationPolicy": "Full refund 7+ days before. 50% within 7 days. No refund within 72 hours.",
+        "dresscode": "Comfortable walking shoes, smart casual",
+        "accessibility": "Toledo has cobblestones and stairs; discuss mobility needs in advance"
+      },
+      "dietaryAccommodations": ["Lunch restaurant accommodates dietary needs"],
       "city": "Toledo"
     },
     {
       "id": 24,
       "title": "Segovia Royal Escape",
       "category": "Private Journeys",
-      "price": 1550,
+      "price": 1950,
+      "duration": "Full day (9 hours)",
+      "groupSize": "Private for 2-6 guests",
+      "languages": ["English", "Spanish"],
+      "meetingPoint": "Your hotel",
       "image": "https://i.imgur.com/OVFqHcv.jpg",
-      "description": "A refined excursion beyond Madrid, curated for comfort and cultural depth.",
+      "description": "A refined excursion beyond Madrid, curated for comfort and cultural depth. Segovia is known for its Roman aqueduct, fairy-tale Alcázar, and Castilian cuisine. This full-day journey includes luxury transport, private guide, curated stops, and a traditional lunch featuring Segovia's signature dish: cochinillo (roast suckling pig). Return to Madrid in the evening, satisfied and inspired.",
+      "detailedItinerary": [
+        {
+          "time": "9:00 AM",
+          "title": "Hotel Pickup",
+          "description": "Your chauffeur and guide collect you in a luxury vehicle. Scenic 1.5-hour drive to Segovia with countryside views."
+        },
+        {
+          "time": "10:30 AM",
+          "title": "Roman Aqueduct",
+          "description": "Begin at Segovia's iconic Roman aqueduct. Your guide explains its engineering and historical significance."
+        },
+        {
+          "time": "11:00 AM",
+          "title": "Alcázar of Segovia",
+          "description": "Tour the Alcázar, a stunning medieval castle that inspired Disney's Cinderella Castle. Explore the towers, throne room, and panoramic views."
+        },
+        {
+          "time": "12:30 PM",
+          "title": "Old Town Walk",
+          "description": "Stroll through Segovia's old town. Visit the Plaza Mayor, Cathedral, and charming cobblestone streets."
+        },
+        {
+          "time": "1:30 PM",
+          "title": "Traditional Lunch",
+          "description": "Enjoy lunch at a historic Segovian restaurant. Signature dish: cochinillo (roast suckling pig) or alternatives. Local wine included."
+        },
+        {
+          "time": "3:30 PM",
+          "title": "Free Time or Optional Visit",
+          "description": "Option: visit a local artisan workshop or simply enjoy coffee in the plaza."
+        },
+        {
+          "time": "4:30 PM",
+          "title": "Return to Madrid",
+          "description": "Depart Segovia. Return to your Madrid hotel by 6:00 PM."
+        }
+      ],
+      "included": [
+        "Private luxury vehicle and chauffeur (9 hours)",
+        "Expert guide for full day",
+        "Skip-the-line admissions (Alcázar, Cathedral)",
+        "Traditional Segovian lunch with wine",
+        "Water and refreshments in vehicle"
+      ],
+      "notIncluded": [
+        "Dinner",
+        "Personal purchases",
+        "Gratuity for driver and guide"
+      ],
+      "specialFeatures": [
+        "UNESCO World Heritage city",
+        "Private chauffeured experience",
+        "Expert guide with deep Segovia knowledge",
+        "Traditional Castilian lunch (cochinillo)",
+        "Ideal for history, architecture, and culinary enthusiasts"
+      ],
+      "bookingDetails": {
+        "advanceNotice": "1 week minimum",
+        "cancellationPolicy": "Full refund 7+ days before. 50% within 7 days. No refund within 72 hours.",
+        "dresscode": "Comfortable walking shoes, smart casual",
+        "accessibility": "Alcázar has stairs; discuss mobility needs in advance"
+      },
+      "dietaryAccommodations": ["Lunch restaurant offers alternatives to cochinillo", "Vegetarian and pescatarian options available"],
       "city": "Segovia"
     }
   ]
